@@ -1,4 +1,4 @@
-# Variational_AutoEncoder
+# Variational_AutoEncoder (VAE)
 Master's Thesis
 
 # Variational Autoencoder-based Reinforcement Learning for 7-DoF Arm and 2-DoF Gripper Model  
